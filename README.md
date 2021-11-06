@@ -1,7 +1,7 @@
 # Flux Universal Application
 
 > Other variants of the application, along with their short description are linked from
-> [master](https://github.com/zen-js-code/react-universal-web-apps/) branch.
+> master branch.
 
 ## Installation & Execution
 
